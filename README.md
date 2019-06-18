@@ -1,2 +1,2 @@
 # sample-project
-This is a sample flask app
+This is a sample app
